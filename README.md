@@ -13,7 +13,7 @@ Send mail via Mailgun SDK in CakePHP 3.0
 * 1) Install using composer 
 
 ```PHP
-composer require motsmanish/cakephp-mailgun
+composer require nshiddqui/cakephp-mailgun
 ```
 
 * 2) Updated configuration in app.php
