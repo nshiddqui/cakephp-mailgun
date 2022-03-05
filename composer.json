@@ -15,7 +15,7 @@
     "require": {
         "php": ">=5.4.16",
 	"cakephp/cakephp": "~3",
-	"mailgun/mailgun-php" : "~3"
+	"mailgun/mailgun-php" : "3.5.1"
     },
     "support": {
         "issues": "https://github.com/nshiddqui/cakephp-mailgun/issues",
